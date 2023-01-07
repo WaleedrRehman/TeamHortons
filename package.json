@@ -1,0 +1,19 @@
+{
+  "name": "teamhortons",
+  "version": "1.0.0",
+  "description": "Fuel Usage Optimization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaleedrRehman/TeamHortons.git"
+  },
+  "author": "Team Hortons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaleedrRehman/TeamHortons/issues"
+  },
+  "homepage": "https://github.com/WaleedrRehman/TeamHortons#readme"
+}
