@@ -12,6 +12,8 @@ app.listen(3000, () => {
     console.log(`App listening at http://localhost:${port}`);
 })
 
+app.get('/', function (req, res) {
+    res.sendFile(__dirname + '/app/index.html')
+});
 
-app.get('/', (req, res) => res.send('Hello World!'));
 
